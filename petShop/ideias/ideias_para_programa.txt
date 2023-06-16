@@ -1,0 +1,17 @@
+=======================================
+o que é 
+o progrma sera sobre um petshop
+=======================================
+o que vai ter
+sitema de dinheiro
+tratamento como lavar ou cuidar de alguma donça
+
+
+um sitema onde um npc vem entrega o animal pede por um tratamento e qundo o trtamento acabar ele paga
+
+um sitema que a cada 30 dias a uma cobraça de um valor caso o playr não tenha o valor ele perde
+caso tenha ele proseque para o procimo mes
+
+um sitema de upgraides como adcionar mais funcinarios e maquinas(tera um limitador de quntas maquinas e funcionarios)
+os funcinario e maquinas tambem tem de ter upgraides
+

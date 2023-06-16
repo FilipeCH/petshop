@@ -1,0 +1,7 @@
+cachoro
+petshop
+vacas
+moeda
+banco
+praça
+pepeino
